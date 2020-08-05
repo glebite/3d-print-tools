@@ -1,6 +1,6 @@
 # 3d-print-tools
 
-wingnutwrench.FCStd:  
+##wingnutwrench.FCStd:  
 Description:
 This is a simple socket wrench for tightening small nuts.  Allows for the bolt to slide through while prototyping.  
   

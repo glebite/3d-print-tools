@@ -28,3 +28,7 @@ Bird perch - perch size based on the sizing for a Senegal Parrot
 ## hoodieclip.FCStd:
 ### Description:
 Start of hoodie LED clips or arch for lighting effects or hiding.  I think the arch idea is better as the hoodie clips could still come apart or de-wired and be a disappointment.  I'd rather go for working than not.
+
+## reedswitchmangnetholder.FCStd:
+### Description:
+a holder for the reed switch for the door.

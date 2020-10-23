@@ -20,3 +20,11 @@ Note that the threaded rod that I have right now is too big - 5% infill on the p
 
 Threaded rods, nuts, washers have been acquired - will assemble, pull the wiring to and arduino to drive the plater and laser and a raspberry pi for the camera
 acquisition and point cloud generation.
+
+## birdperchforscale.FCStd:  
+### Description:  
+Bird perch - perch size based on the sizing for a Senegal Parrot
+
+## hoodieclip.FCStd:
+### Description:
+Start of hoodie LED clips or arch for lighting effects or hiding.

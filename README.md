@@ -32,3 +32,15 @@ Start of hoodie LED clips or arch for lighting effects or hiding.  I think the a
 ## reedswitchmangnetholder.FCStd:
 ### Description:
 a holder for the reed switch for the door.
+
+## pvc2hose.FCStd:  
+### Description:  
+I needed an adaptor for my shop vac  
+
+## pvcpipe2vacuumhead.FCStd:  
+### Descripion:
+pvc pipe to floor thingy
+
+## solarstandholder.FCStd:
+### Description:
+Old solar panel mount was eaten by squirrels - new one designed and printed.

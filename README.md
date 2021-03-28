@@ -48,3 +48,8 @@ Old solar panel mount was eaten by squirrels - new one designed and printed.
 ## fake-security-cam-insert.FCStd:
 ### Description:
 An insert for a raspberry pi zero w or so for a cheap fake security camera.
+
+## DIN-NanoBracket.FCStd:
+### Description: 
+A DIN rail bracket for holding an Arduino Nano
+

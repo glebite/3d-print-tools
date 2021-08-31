@@ -38,18 +38,22 @@ a holder for the reed switch for the door.
 I needed an adaptor for my shop vac  
 
 ## pvcpipe2vacuumhead.FCStd:  
-### Descripion:
-pvc pipe to floor thingy
+### Descripion:  
+pvc pipe to floor thingy  
 
-## solarstandholder.FCStd:
-### Description:
-Old solar panel mount was eaten by squirrels - new one designed and printed.
+## solarstandholder.FCStd:  
+### Description:  
+Old solar panel mount was eaten by squirrels - new one designed and printed.  
 
-## fake-security-cam-insert.FCStd:
-### Description:
-An insert for a raspberry pi zero w or so for a cheap fake security camera.
+## fake-security-cam-insert.FCStd:  
+### Description:  
+An insert for a raspberry pi zero w or so for a cheap fake security camera.  
 
-## DIN-NanoBracket.FCStd:
-### Description: 
-A DIN rail bracket for holding an Arduino Nano
+## DIN-NanoBracket.FCStd:  
+### Description:   
+A DIN rail bracket for holding an Arduino Nano  
+
+## tsquare-mount.FCStd:  
+### Description:  
+V/T-slot drop mounting bracket to hold robots or such to work on in isolation.  
 

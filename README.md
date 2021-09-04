@@ -55,5 +55,9 @@ A DIN rail bracket for holding an Arduino Nano
 
 ## tsquare-mount.FCStd:  
 ### Description:  
-V/T-slot drop mounting bracket to hold robots or such to work on in isolation.  
+V/T-slot drop mounting bracket to hold robots or such to work on in isolation.
+
+## motor-controller-DIN-mount.FCStd:
+### Description:
+A mount for holding a 12 motor PWM controller.
 
